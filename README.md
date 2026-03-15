@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="color:red; font-family: 'Fira Code', monospace; font-size: 56px;">Ahmed Ashraf</h1>
+<h1 align="center" style="color:red; font-family: 'Fira Code', monospace; font-size: 56px;">Islam Ashraf</h1>
 
 
 
@@ -12,10 +12,9 @@
 ---
 
 ## 👨‍💻 About Me
-AI & ML Engineer with a strong foundation in AI & Computer Science.  
-Specializes in designing, developing, and optimizing ML & DL models for NLP, CV, and predictive analytics.  
-Experienced in transformer-based architectures (LLMs) and MLOps for production-ready AI systems.  
-Passionate about innovation, data-driven decisions, and impactful AI solutions.
+Digital Design / FPGA Engineer with strong hands-on experience in RTL design, FPGA-based systems, and digital
+communication blocks. Experienced in Verilog development, communication protocols (SPI, I2C, UART), DSP-oriented
+designs, and hardware–software integration. Seeking part-time or contract opportunities in Digital IC or FPGA design.
 
 ---
 
