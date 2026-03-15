@@ -5,8 +5,9 @@
 
 
 <!-- Typing animation for About Me -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&height=60&lines=Digital+%26+IC+Engineer;Data+Scientist;NLP+%26+CV+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&height=60&lines=Digital+%26+IC+Designer;FPGA+Design+Engineer" />
 </p>
 
 ---
@@ -75,8 +76,8 @@ designs, and hardware–software integration. Seeking part-time or contract oppo
 ---
 ## 📫 Contact & Links
 <p align="center">
-  <a href="mailto:ahmedashraf390@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-ashraf"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eslamashrafaoao@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/islam-ashraf-b23692229/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ahmedashraf792002"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.kaggle.com/ahmedashrafahmed"><img src="https://img.shields.io/badge/Kaggle-%231DB954?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://ahmedashrafahmed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%233489F9?style=for-the-badge&logo=about.me&logoColor=white" /></a>
