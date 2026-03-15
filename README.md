@@ -6,7 +6,7 @@
 
 <!-- Typing animation for About Me -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&height=60&lines=AI+%26+ML+Engineer;Data+Scientist;NLP+%26+CV+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&height=60&lines=Digital+%26+IC+Engineer;Data+Scientist;NLP+%26+CV+Specialist" />
 </p>
 
 ---
