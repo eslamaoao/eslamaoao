@@ -78,9 +78,7 @@ designs, and hardware–software integration. Seeking part-time or contract oppo
 <p align="center">
   <a href="mailto:eslamashrafaoao@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/islam-ashraf-b23692229/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ahmedashraf792002"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/ahmedashrafahmed"><img src="https://img.shields.io/badge/Kaggle-%231DB954?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://ahmedashrafahmed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%233489F9?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+
 </p>
 
 <p align="center">
