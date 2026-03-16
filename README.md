@@ -21,41 +21,38 @@ designs, and hardware–software integration. Seeking part-time or contract oppo
 
 ## 🛠 Skills
 
+### 💻 Hardware Description Languages & Verification
 <p align="center">
-  <!-- HDL & Digital Design -->
-  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/VHDL-1E90FF?style=for-the-badge&logo=vhdl&logoColor=white" />
-  <img src="https://img.shields.io/badge/UVM-2E8B57?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VHDL-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UVM-2E8B57?style=for-the-badge" />
 </p>
+
+### 📡 Digital Communication & DSP
 <p align="center">
-  <!-- Digital Communication & DSP -->
   <img src="https://img.shields.io/badge/QPSK_Modem-8E44AD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DVB--S_Baseband-1ABC9C?style=for-the-badge" />
-  
+  <img src="https://img.shields.io/badge/Digital_Demodulation-2980B9?style=for-the-badge" />
 </p>
 
+### 🧠 FPGA & Hardware Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Digital_Demodulation-2980B9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FPGA_DSP-27AE60?style=for-the-badge" />
-</p>
-<p align="center">
-  <!-- FPGA & Hardware -->
   <img src="https://img.shields.io/badge/FPGA-FFB000?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/Xilinx-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISE-0052CC?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/Vivado-FFB000?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISE-0052CC?style=for-the-badge&logo=xilinx&logoColor=white" />
 </p>
 
+### 🔌 Communication Protocols
 <p align="center">
-  <!-- Protocols -->
   <img src="https://img.shields.io/badge/UART-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SPI-FF5722?style=for-the-badge" />
   <img src="https://img.shields.io/badge/I2C-009688?style=for-the-badge" />
 </p>
 
+### 🧰 Tools & EDA
 <p align="center">
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/ModelSim-1F425F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design_Compiler-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Formality-6A1B9A?style=for-the-badge" />
@@ -63,11 +60,11 @@ designs, and hardware–software integration. Seeking part-time or contract oppo
 </p>
 
 ---
+
 ## 💡 Random Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-
 
 ---
 ## 📫 Contact & Links
