@@ -50,20 +50,34 @@ designs, and hardware–software integration. Seeking part-time or contract oppo
 </p>
 
 <p align="center">
-  <!-- Data & Visualization -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" />
+  <!-- HDL & Digital Design -->
+  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/VHDL-1E90FF?style=for-the-badge&logo=vhdl&logoColor=white" />
+  <img src="https://img.shields.io/badge/UVM-2E8B57?style=for-the-badge&logo=verilog&logoColor=white" />
 </p>
 
 <p align="center">
-  <!-- MLOps & Deployment -->
-  <img src="https://img.shields.io/badge/MLflow-6F6F6F?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <!-- FPGA & Hardware -->
+  <img src="https://img.shields.io/badge/FPGA-FFB000?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xilinx-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISE-0052CC?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vivado-FFB000?style=for-the-badge&logo=xilinx&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Protocols -->
+  <img src="https://img.shields.io/badge/UART-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SPI-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/I2C-009688?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/ModelSim-1F425F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Compiler-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Formality-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCL-FF9800?style=for-the-badge" />
 </p>
 
 ---
