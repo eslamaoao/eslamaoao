@@ -22,41 +22,23 @@ designs, and hardware–software integration. Seeking part-time or contract oppo
 ## 🛠 Skills
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- ML & DL -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- NLP & LLM -->
-  <img src="https://img.shields.io/badge/NLTK-2C2C2C?style=for-the-badge&logo=nltk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpaCy-FF6600?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- CV -->
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo&logoColor=white" />
-</p>
-
-<p align="center">
   <!-- HDL & Digital Design -->
   <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/VHDL-1E90FF?style=for-the-badge&logo=vhdl&logoColor=white" />
   <img src="https://img.shields.io/badge/UVM-2E8B57?style=for-the-badge&logo=verilog&logoColor=white" />
 </p>
+<p align="center">
+  <!-- Digital Communication & DSP -->
+  <img src="https://img.shields.io/badge/QPSK_Modem-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DVB--S_Baseband-1ABC9C?style=for-the-badge" />
+  
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital_Demodulation-2980B9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FPGA_DSP-27AE60?style=for-the-badge" />
+</p>
 <p align="center">
   <!-- FPGA & Hardware -->
   <img src="https://img.shields.io/badge/FPGA-FFB000?style=for-the-badge&logo=xilinx&logoColor=white" />
